@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- ===================== -->
+<!--  Mohammed Ali | DevOps -->
+<!-- ===================== -->
 
-<!--
-**MOHAMMEDALI57/MOHAMMEDALI57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
+<h3 align="center">DevOps Engineer | Cloud • Kubernetes • CI/CD Automation</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="420"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 👨‍💻 About Me
+
+I am a **DevOps Engineer from INDIA** working on **cloud-native, containerized, and automated platforms** across **AWS and Azure**.
+
+I focus on **reliability, automation, and scalability**, helping teams deliver faster while keeping production stable and secure.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400"/>
+</p>
+
+---
+
+## ☁️ Cloud & DevOps Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,bash,python,grafana,prometheus" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
+</p>
+
+-
 -->
