@@ -36,5 +36,9 @@ I focus on **reliability, automation, and scalability**, helping teams deliver f
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
 </p>
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MOHAMMEDALI57
+)](https://github.com/ryo-ma/github-profile-trophy)
 -
 -->
